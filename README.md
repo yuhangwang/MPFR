@@ -1,7 +1,7 @@
 # MPFR
 **The GNU MPFR Library for multiple-precision floating-point computations with correct rounding**
 
-This is an unofficial verbatim redistribution of the binary&source form of the GNU GMP library (a prerequisite for compiling programs like GCC), under the terms of LGPL 3.0 license.
+This is an unofficial verbatim redistribution of the binary&source form of the GNU MPFR library (a prerequisite for compiling programs like GCC), under the terms of LGPL 3.0 license.
 
 This redistribution is under the the same LGPL 3.0.
 
